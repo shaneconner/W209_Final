@@ -1,0 +1,611 @@
+,Player,Position,Team,FPTS
+0,Tom Brady,Quarterback,NE,20.2
+1,Alex Smith,Quarterback,KC,18.8
+2,Drew Brees,Quarterback,NO,17.6
+3,Carson Wentz,Quarterback,PHI,17.6
+4,Philip Rivers,Quarterback,LAC,17.4
+5,Jameis Winston,Quarterback,TB,17.0
+6,Matt Ryan,Quarterback,ATL,16.8
+7,Russell Wilson,Quarterback,SEA,16.7
+8,Jared Goff,Quarterback,LAR,16.5
+9,Matthew Stafford,Quarterback,DET,16.2
+10,Dak Prescott,Quarterback,DAL,16.1
+11,Derek Carr,Quarterback,OAK,15.9
+12,Cam Newton,Quarterback,CAR,15.8
+13,Kirk Cousins,Quarterback,WAS,15.6
+14,Ben Roethlisberger,Quarterback,PIT,15.6
+15,Case Keenum,Quarterback,MIN,15.5
+16,Marcus Mariota,Quarterback,TEN,14.8
+17,Blaine Gabbert,Quarterback,ARI,14.7
+18,DeShone Kizer,Quarterback,CLE,14.3
+19,Josh McCown,Quarterback,NYJ,14.2
+20,Andy Dalton,Quarterback,CIN,14.2
+21,Jimmy Garoppolo,Quarterback,SF,13.9
+22,Jacoby Brissett,Quarterback,IND,13.9
+23,Brett Hundley,Quarterback,GB,13.8
+24,Blake Bortles,Quarterback,JAC,13.8
+25,Eli Manning,Quarterback,NYG,13.2
+26,Tom Savage,Quarterback,HOU,13.0
+27,Trevor Siemian,Quarterback,DEN,12.9
+28,Jay Cutler,Quarterback,MIA,12.2
+29,Joe Flacco,Quarterback,BAL,11.9
+30,Mitch Trubisky,Quarterback,CHI,10.9
+31,Tyrod Taylor,Quarterback,BUF,9.6
+32,Nathan Peterman,Quarterback,BUF,9.5
+33,Ryan Fitzpatrick,Quarterback,TB,0.9
+34,Brock Osweiler,Quarterback,DEN,0.8
+35,Matt Moore,Quarterback,MIA,0.8
+36,Jake Rudock,Quarterback,DET,0.7
+37,C.J. Beathard,Quarterback,SF,0.5
+38,Teddy Bridgewater,Quarterback,MIN,0.5
+39,Kevin Hogan,Quarterback,CLE,0.4
+40,Cody Kessler,Quarterback,CLE,0.3
+41,Ryan Mallett,Quarterback,BAL,0.3
+42,AJ McCarron,Quarterback,CIN,0.3
+43,Brian Hoyer,Quarterback,NE,0.3
+44,Drew Stanton,Quarterback,ARI,0.3
+45,Matt Schaub,Quarterback,ATL,0.3
+46,Mike Glennon,Quarterback,CHI,0.3
+47,T.J. Yates,Quarterback,HOU,0.3
+48,Bryce Petty,Quarterback,NYJ,0.2
+49,Colt McCoy,Quarterback,WAS,0.2
+50,EJ Manuel,Quarterback,OAK,0.2
+51,Patrick Mahomes,Quarterback,KC,0.2
+52,Landry Jones,Quarterback,PIT,0.2
+53,Chase Daniel,Quarterback,NO,0.2
+54,Austin Davis,Quarterback,SEA,0.2
+55,Geno Smith,Quarterback,NYG,0.2
+56,Cooper Rush,Quarterback,DAL,0.1
+57,Nick Foles,Quarterback,PHI,0.1
+58,Derek Anderson,Quarterback,CAR,0.1
+59,Matt Cassel,Quarterback,TEN,0.1
+60,Kellen Clemens,Quarterback,LAC,0.1
+61,Sean Mannion,Quarterback,LAR,0.1
+62,Chad Henne,Quarterback,JAC,0.1
+63,Scott Tolzien,Quarterback,IND,0.0
+64,Joe Callahan,Quarterback,GB,0.0
+65,Joe Webb,Quarterback,BUF,0.0
+66,Nate Sudfeld,Quarterback,PHI,0.0
+67,Josh Woodrum,Quarterback,BAL,0.0
+68,Brandon Allen,Quarterback,LAR,0.0
+69,Taysom Hill,Quarterback,NO,0.0
+70,David Fales,Quarterback,MIA,0.0
+71,Cardale Jones,Quarterback,LAC,0.0
+72,Davis Webb,Quarterback,NYG,0.0
+73,Connor Cook,Quarterback,OAK,0.0
+74,Brad Kaaya,Quarterback,DET,0.0
+75,Matt Barkley,Quarterback,ARI,0.0
+76,Mark Sanchez,Quarterback,CHI,0.0
+77,Taylor Heinicke,Quarterback,HOU,0.0
+78,Alex Tanney,Quarterback,TEN,0.0
+79,Garrett Gilbert,Quarterback,CAR,0.0
+80,Brandon Weeden,Quarterback,TEN,0.0
+81,Sam Bradford,Quarterback,MIN,0.0
+82,Jeff Driskel,Quarterback,CIN,0.0
+83,Kyle Sloter,Quarterback,MIN,0.0
+84,Christian Hackenberg,Quarterback,NYJ,0.0
+85,Joshua Dobbs,Quarterback,PIT,0.0
+86,Ryan Griffin,Quarterback,TB,0.0
+87,Jameill Showers,Quarterback,DAL,0.0
+88,Le'Veon Bell,Running Back,PIT,16.4
+89,Todd Gurley,Running Back,LAR,14.7
+90,Melvin Gordon,Running Back,LAC,14.5
+91,LeSean McCoy,Running Back,BUF,14.2
+92,Alvin Kamara,Running Back,NO,14.0
+93,Mark Ingram,Running Back,NO,13.3
+94,Devonta Freeman,Running Back,ATL,12.6
+95,Leonard Fournette,Running Back,JAC,12.4
+96,Lamar Miller,Running Back,HOU,12.2
+97,Kareem Hunt,Running Back,KC,12.1
+98,Carlos Hyde,Running Back,SF,11.9
+99,Dion Lewis,Running Back,NE,11.0
+100,Kenyan Drake,Running Back,MIA,10.9
+101,Samaje Perine,Running Back,WAS,10.8
+102,Marshawn Lynch,Running Back,OAK,10.7
+103,Jordan Howard,Running Back,CHI,10.7
+104,Alfred Morris,Running Back,DAL,10.6
+105,Frank Gore,Running Back,IND,10.0
+106,Rex Burkhead,Running Back,NE,9.5
+107,Christian McCaffrey,Running Back,CAR,9.2
+108,Alex Collins,Running Back,BAL,9.1
+109,Latavius Murray,Running Back,MIN,9.1
+110,Jamaal Williams,Running Back,GB,9.1
+111,DeMarco Murray,Running Back,TEN,9.0
+112,Joe Mixon,Running Back,CIN,9.0
+113,Orleans Darkwa,Running Back,NYG,8.9
+114,Isaiah Crowell,Running Back,CLE,8.7
+115,C.J. Anderson,Running Back,DEN,8.1
+116,Derrick Henry,Running Back,TEN,8.1
+117,Tevin Coleman,Running Back,ATL,8.0
+118,Jerick McKinnon,Running Back,MIN,7.9
+119,Jay Ajayi,Running Back,PHI,7.6
+120,Mike Davis,Running Back,SEA,7.5
+121,Matt Forte,Running Back,NYJ,7.4
+122,Ameer Abdullah,Running Back,DET,7.4
+123,Giovani Bernard,Running Back,CIN,7.2
+124,Duke Johnson,Running Back,CLE,7.1
+125,LeGarrette Blount,Running Back,PHI,6.7
+126,Doug Martin,Running Back,TB,6.6
+127,Adrian Peterson,Running Back,ARI,6.5
+128,Jonathan Stewart,Running Back,CAR,6.4
+129,Rod Smith,Running Back,DAL,6.3
+130,Peyton Barber,Running Back,TB,6.2
+131,Bilal Powell,Running Back,NYJ,6.1
+132,Aaron Jones,Running Back,GB,6.1
+133,Austin Ekeler,Running Back,LAC,6.1
+134,Marlon Mack,Running Back,IND,6.0
+135,Devontae Booker,Running Back,DEN,5.9
+136,Theo Riddick,Running Back,DET,5.6
+137,Danny Woodhead,Running Back,BAL,5.4
+138,Tarik Cohen,Running Back,CHI,5.0
+139,James White,Running Back,NE,5.0
+140,Matt Breida,Running Back,SF,4.8
+141,Byron Marshall,Running Back,WAS,4.5
+142,Kerwynn Williams,Running Back,ARI,4.5
+143,Jalen Richard,Running Back,OAK,4.4
+144,Alfred Blue,Running Back,HOU,4.3
+145,DeAndre Washington,Running Back,OAK,4.2
+146,T.J. Yeldon,Running Back,JAC,3.8
+147,Travaris Cadet,Running Back,BUF,3.8
+148,Wayne Gallman,Running Back,NYG,3.7
+149,Corey Clement,Running Back,PHI,3.7
+150,J.D. McKissic,Running Back,SEA,3.6
+151,Jamaal Charles,Running Back,DEN,3.5
+152,Charcandrick West,Running Back,KC,3.3
+153,Elijah McGuire,Running Back,NYJ,3.3
+154,Damien Williams,Running Back,MIA,3.1
+155,Charles Sims,Running Back,TB,3.0
+156,Javorius Allen,Running Back,BAL,2.9
+157,Shane Vereen,Running Back,NYG,2.8
+158,Andre Ellington,Running Back,HOU,2.7
+159,D.J. Foster,Running Back,ARI,2.5
+160,Senorise Perry,Running Back,MIA,2.3
+161,Kyle Juszczyk,Running Back,SF,2.1
+162,Tion Green,Running Back,DET,2.1
+163,Chris Ivory,Running Back,JAC,1.9
+164,James Conner,Running Back,PIT,1.8
+165,Lance Dunbar,Running Back,LAR,1.7
+166,Malcolm Brown,Running Back,LAR,1.5
+167,Brian Hill,Running Back,CIN,1.5
+168,Matt Jones,Running Back,IND,1.5
+169,Mike Tolbert,Running Back,BUF,1.5
+170,Eddie Lacy,Running Back,SEA,1.3
+171,Jacquizz Rodgers,Running Back,TB,1.3
+172,Dwayne Washington,Running Back,DET,1.3
+173,Benny Cunningham,Running Back,CHI,1.1
+174,Corey Grant,Running Back,JAC,0.9
+175,Branden Oliver,Running Back,LAC,0.8
+176,Fozzy Whittaker,Running Back,CAR,0.7
+177,Cameron Artis-Payne,Running Back,CAR,0.7
+178,Akeem Hunt,Running Back,KC,0.6
+179,Paul Perkins,Running Back,NYG,0.5
+180,Mike Gillislee,Running Back,NE,0.5
+181,Elijhaa Penny,Running Back,ARI,0.5
+182,Terron Ward,Running Back,ATL,0.5
+183,Jamize Olawale,Running Back,OAK,0.5
+184,Wendell Smallwood,Running Back,PHI,0.5
+185,Thomas Rawls,Running Back,SEA,0.4
+186,Aaron Ripkowski,Running Back,GB,0.4
+187,Ryan Hewitt,Running Back,CIN,0.4
+188,Kenjon Barner,Running Back,PHI,0.4
+189,Shane Smith,Running Back,NYG,0.4
+190,Fitzgerald Toussaint,Running Back,PIT,0.3
+191,Jordan Todman,Running Back,HOU,0.3
+192,Jonathan Williams,Running Back,NO,0.3
+193,CJ Ham,Running Back,MIN,0.3
+194,Bronson Hill,Running Back,ARI,0.3
+195,Terrance West,Running Back,BAL,0.3
+196,Zach Zenner,Running Back,DET,0.3
+197,Mack Brown,Running Back,MIN,0.3
+198,David Fluellen,Running Back,TEN,0.3
+199,Alex Armah,Running Back,CAR,0.3
+200,Derek Watt,Running Back,LAC,0.3
+201,Andy Janovich,Running Back,DEN,0.3
+202,Trey Edmunds,Running Back,NO,0.2
+203,Anthony Sherman,Running Back,KC,0.2
+204,Patrick DiMarco,Running Back,BUF,0.2
+205,Zach Line,Running Back,NO,0.2
+206,Jay Prosch,Running Back,HOU,0.2
+207,Josh Ferguson,Running Back,IND,0.2
+208,Tommy Bohanon,Running Back,JAC,0.2
+209,Michael Burton,Running Back,CHI,0.2
+210,Matthew Dayes,Running Back,CLE,0.2
+211,James Develin,Running Back,NE,0.2
+212,Devante Mays,Running Back,GB,0.2
+213,De'Angelo Henderson,Running Back,DEN,0.2
+214,Dan Vitale,Running Back,CLE,0.2
+215,Justin Davis,Running Back,LAR,0.2
+216,Jalston Fowler,Running Back,TEN,0.1
+217,Derrick Coleman,Running Back,ATL,0.1
+218,LeShun Daniels,Running Back,WAS,0.1
+219,Keith Smith,Running Back,DAL,0.1
+220,Brandon Bolden,Running Back,NE,0.1
+221,Andre Williams,Running Back,LAC,0.0
+222,Joe Kerridge,Running Back,GB,0.0
+223,Roosevelt Nix,Running Back,PIT,0.0
+224,Tyler Gaffney,Running Back,JAC,0.0
+225,De'Veon Smith,Running Back,MIA,0.0
+226,Trey Williams,Running Back,DAL,0.0
+227,Taquan Mizzell,Running Back,CHI,0.0
+228,Jeremy McNichols,Running Back,SF,0.0
+229,George Winn,Running Back,IND,0.0
+230,Terrell Watson,Running Back,PIT,0.0
+231,Brandon Wilson,Running Back,CIN,0.0
+232,John Kuhn,Running Back,NO,0.0
+233,Antonio Brown,Wide Receiver,PIT,13.9
+234,DeAndre Hopkins,Wide Receiver,HOU,12.3
+235,Julio Jones,Wide Receiver,ATL,11.6
+236,Keenan Allen,Wide Receiver,LAC,11.4
+237,A.J. Green,Wide Receiver,CIN,11.0
+238,Brandin Cooks,Wide Receiver,NE,10.6
+239,Tyreek Hill,Wide Receiver,KC,10.4
+240,Michael Thomas,Wide Receiver,NO,10.2
+241,Mike Evans,Wide Receiver,TB,9.9
+242,Larry Fitzgerald,Wide Receiver,ARI,9.4
+243,Adam Thielen,Wide Receiver,MIN,9.4
+244,Marvin Jones,Wide Receiver,DET,9.4
+245,Davante Adams,Wide Receiver,GB,9.3
+246,Alshon Jeffery,Wide Receiver,PHI,9.2
+247,Michael Crabtree,Wide Receiver,OAK,9.1
+248,Robby Anderson,Wide Receiver,NYJ,8.7
+249,Dez Bryant,Wide Receiver,DAL,8.7
+250,Golden Tate,Wide Receiver,DET,8.5
+251,Josh Gordon,Wide Receiver,CLE,8.3
+252,Devin Funchess,Wide Receiver,CAR,8.3
+253,Jarvis Landry,Wide Receiver,MIA,8.3
+254,Jamison Crowder,Wide Receiver,WAS,8.2
+255,Stefon Diggs,Wide Receiver,MIN,8.1
+256,T.Y. Hilton,Wide Receiver,IND,8.1
+257,Doug Baldwin,Wide Receiver,SEA,8.0
+258,Sterling Shepard,Wide Receiver,NYG,8.0
+259,Demaryius Thomas,Wide Receiver,DEN,7.7
+260,Sammy Watkins,Wide Receiver,LAR,7.6
+261,Kenny Stills,Wide Receiver,MIA,7.4
+262,Marquise Goodwin,Wide Receiver,SF,7.4
+263,Cooper Kupp,Wide Receiver,LAR,7.2
+264,Marqise Lee,Wide Receiver,JAC,7.2
+265,DeSean Jackson,Wide Receiver,TB,7.1
+266,Jermaine Kearse,Wide Receiver,NYJ,7.1
+267,Mohamed Sanu,Wide Receiver,ATL,7.0
+268,Chris Hogan,Wide Receiver,NE,6.8
+269,Emmanuel Sanders,Wide Receiver,DEN,6.8
+270,Ted Ginn,Wide Receiver,NO,6.7
+271,Josh Doctson,Wide Receiver,WAS,6.6
+272,Kelvin Benjamin,Wide Receiver,BUF,6.5
+273,Nelson Agholor,Wide Receiver,PHI,6.5
+274,Rishard Matthews,Wide Receiver,TEN,6.4
+275,Dede Westbrook,Wide Receiver,JAC,6.3
+276,Martavis Bryant,Wide Receiver,PIT,6.3
+277,Corey Coleman,Wide Receiver,CLE,6.3
+278,Jeremy Maclin,Wide Receiver,BAL,6.1
+279,Mike Wallace,Wide Receiver,BAL,5.9
+280,Dontrelle Inman,Wide Receiver,CHI,5.8
+281,Danny Amendola,Wide Receiver,NE,5.6
+282,Amari Cooper,Wide Receiver,OAK,5.5
+283,Jordy Nelson,Wide Receiver,GB,5.5
+284,Devante Parker,Wide Receiver,MIA,5.3
+285,Paul Richardson,Wide Receiver,SEA,5.3
+286,Zay Jones,Wide Receiver,BUF,5.2
+287,Brandon LaFell,Wide Receiver,CIN,5.2
+288,Terrance Williams,Wide Receiver,DAL,5.0
+289,Will Fuller,Wide Receiver,HOU,5.0
+290,Corey Davis,Wide Receiver,TEN,5.0
+291,Randall Cobb,Wide Receiver,GB,4.9
+292,Kenny Golladay,Wide Receiver,DET,4.9
+293,Ryan Grant,Wide Receiver,WAS,4.8
+294,Tyrell Williams,Wide Receiver,LAC,4.6
+295,Trent Taylor,Wide Receiver,SF,4.6
+296,J.J. Nelson,Wide Receiver,ARI,4.6
+297,Travis Benjamin,Wide Receiver,LAC,4.5
+298,Albert Wilson,Wide Receiver,KC,4.5
+299,Donte Moncrief,Wide Receiver,IND,4.4
+300,Tyler Lockett,Wide Receiver,SEA,4.2
+301,Robert Woods,Wide Receiver,LAR,4.2
+302,Torrey Smith,Wide Receiver,PHI,4.2
+303,Eric Decker,Wide Receiver,TEN,4.1
+304,J.D. McKissic,Wide Receiver,SEA,4.1
+305,Roger Lewis,Wide Receiver,NYG,4.0
+306,Jaron Brown,Wide Receiver,ARI,4.0
+307,Seth Roberts,Wide Receiver,OAK,3.9
+308,Taylor Gabriel,Wide Receiver,ATL,3.8
+309,Deonte Thompson,Wide Receiver,BUF,3.7
+310,Adam Humphries,Wide Receiver,TB,3.5
+311,Eli Rogers,Wide Receiver,PIT,3.5
+312,Kendall Wright,Wide Receiver,CHI,3.5
+313,Chester Rogers,Wide Receiver,IND,3.5
+314,Cole Beasley,Wide Receiver,DAL,3.5
+315,Braxton Miller,Wide Receiver,HOU,3.5
+316,John Brown,Wide Receiver,ARI,3.5
+317,Keelan Cole,Wide Receiver,JAC,3.5
+318,Tavarres King,Wide Receiver,NYG,3.5
+319,Josh Reynolds,Wide Receiver,LAR,3.5
+320,Cordarrelle Patterson,Wide Receiver,OAK,3.4
+321,Louis Murphy,Wide Receiver,SF,3.3
+322,Bennie Fowler,Wide Receiver,DEN,2.9
+323,TJ Jones,Wide Receiver,DET,2.9
+324,Brandon Coleman,Wide Receiver,NO,2.9
+325,Tavon Austin,Wide Receiver,LAR,2.9
+326,Russell Shepard,Wide Receiver,CAR,2.9
+327,Allen Hurns,Wide Receiver,JAC,2.9
+328,Brice Butler,Wide Receiver,DAL,2.7
+329,Demarcus Robinson,Wide Receiver,KC,2.6
+330,Cody Latimer,Wide Receiver,DEN,2.5
+331,Josh Bellamy,Wide Receiver,CHI,2.5
+332,Jarius Wright,Wide Receiver,MIN,2.5
+333,Johnny Holton,Wide Receiver,OAK,2.4
+334,Kendrick Bourne,Wide Receiver,SF,2.4
+335,Chris Godwin,Wide Receiver,TB,2.3
+336,Kenny Britt,Wide Receiver,CLE,2.3
+337,Chris Moore,Wide Receiver,BAL,2.3
+338,Andre Holmes,Wide Receiver,BUF,2.2
+339,Justin Hardy,Wide Receiver,ATL,2.2
+340,Willie Snead,Wide Receiver,NO,2.1
+341,Tyler Boyd,Wide Receiver,CIN,2.0
+342,Mike Williams,Wide Receiver,LAC,2.0
+343,Phillip Dorsett,Wide Receiver,NE,1.8
+344,Laquon Treadwell,Wide Receiver,MIN,1.8
+345,Chad Williams,Wide Receiver,ARI,1.8
+346,Mack Hollins,Wide Receiver,PHI,1.7
+347,Alex Erickson,Wide Receiver,CIN,1.7
+348,Josh Malone,Wide Receiver,CIN,1.6
+349,Chad Hansen,Wide Receiver,NYJ,1.6
+350,Kamar Aiken,Wide Receiver,IND,1.6
+351,Aldrick Robinson,Wide Receiver,SF,1.6
+352,Geronimo Allison,Wide Receiver,GB,1.5
+353,Rashard Higgins,Wide Receiver,CLE,1.5
+354,De'Anthony Thomas,Wide Receiver,KC,1.5
+355,Taywan Taylor,Wide Receiver,TEN,1.4
+356,Mike Thomas,Wide Receiver,LAR,1.4
+357,Maurice Harris,Wide Receiver,WAS,1.4
+358,Pharoh Cooper,Wide Receiver,LAR,1.4
+359,Marvin Hall,Wide Receiver,ATL,1.4
+360,Ricardo Louis,Wide Receiver,CLE,1.2
+361,Tommylee Lewis,Wide Receiver,NO,1.1
+362,Brandon Tate,Wide Receiver,BUF,1.1
+363,Justin Hunter,Wide Receiver,PIT,1.1
+364,Damiere Byrd,Wide Receiver,CAR,1.0
+365,Darrius Heyward-Bey,Wide Receiver,PIT,1.0
+366,Michael Floyd,Wide Receiver,MIN,1.0
+367,Travis Rudolph,Wide Receiver,NYG,0.9
+368,Chris Thompson,Wide Receiver,HOU,0.9
+369,Kaelin Clay,Wide Receiver,CAR,0.9
+370,Breshad Perriman,Wide Receiver,BAL,0.8
+371,ArDarius Stewart,Wide Receiver,NYJ,0.8
+372,Brian Quick,Wide Receiver,WAS,0.7
+373,Brenton Bersin,Wide Receiver,CAR,0.6
+374,JoJo Natson,Wide Receiver,NYJ,0.6
+375,Markus Wheaton,Wide Receiver,CHI,0.6
+376,Nick Williams,Wide Receiver,ATL,0.6
+377,Kasen Williams,Wide Receiver,CLE,0.6
+378,Michael Campanaro,Wide Receiver,BAL,0.5
+379,Jeff Janis,Wide Receiver,GB,0.5
+380,Victor Bolden Jr.,Wide Receiver,SF,0.5
+381,Sammie Coates,Wide Receiver,CLE,0.5
+382,DeAndrew White,Wide Receiver,HOU,0.5
+383,Ryan Switzer,Wide Receiver,DAL,0.5
+384,Leonte Carroo,Wide Receiver,MIA,0.4
+385,Quan Bray,Wide Receiver,IND,0.4
+386,Austin Carr,Wide Receiver,NO,0.4
+387,Jehu Chesson,Wide Receiver,KC,0.4
+388,Max McCaffrey,Wide Receiver,GB,0.4
+389,Jace Billingsley,Wide Receiver,DET,0.4
+390,Larry Pinkard,Wide Receiver,JAC,0.4
+391,Amara Darboh,Wide Receiver,SEA,0.4
+392,Noah Brown,Wide Receiver,DAL,0.4
+393,Shelton Gibson,Wide Receiver,PHI,0.4
+394,Tanner McEvoy,Wide Receiver,SEA,0.4
+395,Reggie Davis,Wide Receiver,ATL,0.4
+396,Cobi Hamilton,Wide Receiver,HOU,0.3
+397,Matt Slater,Wide Receiver,NE,0.3
+398,Brittan Golden,Wide Receiver,ARI,0.3
+399,Brandon Reilly,Wide Receiver,BUF,0.3
+400,Neal Sterling,Wide Receiver,NYJ,0.3
+401,Jaelen Strong,Wide Receiver,JAC,0.3
+402,Jaydon Mickens,Wide Receiver,JAC,0.3
+403,Kalif Raymond,Wide Receiver,NYG,0.3
+404,Jordan Taylor,Wide Receiver,DEN,0.3
+405,Bryce Treggs,Wide Receiver,CLE,0.3
+406,Tanner Gentry,Wide Receiver,CHI,0.3
+407,Geremy Davis,Wide Receiver,LAC,0.2
+408,Jakeem Grant,Wide Receiver,MIA,0.2
+409,Bernard Reedy,Wide Receiver,NE,0.2
+410,Andre Roberts,Wide Receiver,ATL,0.2
+411,Cody Core,Wide Receiver,CIN,0.2
+412,Trevor Davis,Wide Receiver,GB,0.1
+413,Marcus Johnson,Wide Receiver,PHI,0.1
+414,Eric Weems,Wide Receiver,TEN,0.1
+415,Arrelious Benn,Wide Receiver,JAC,0.1
+416,Isaiah McKenzie,Wide Receiver,DEN,0.1
+417,Vince Mayle,Wide Receiver,BAL,0.0
+418,Stacy Coley,Wide Receiver,MIN,0.0
+419,Isaac Whitney,Wide Receiver,OAK,0.0
+420,Krishawn Hogan,Wide Receiver,IND,0.0
+421,Tre McBride,Wide Receiver,NYJ,0.0
+422,Devin Lucien,Wide Receiver,HOU,0.0
+423,Andy Jones,Wide Receiver,DET,0.0
+424,Jalin Marshall,Wide Receiver,NYJ,0.0
+425,Dom Williams,Wide Receiver,PHI,0.0
+426,Rodney Adams,Wide Receiver,MIN,0.0
+427,Freddie Martino,Wide Receiver,TB,0.0
+428,K.J. Brent,Wide Receiver,IND,0.0
+429,Darius Jennings,Wide Receiver,TEN,0.0
+430,Damore'ea Stringfellow,Wide Receiver,NYJ,0.0
+431,Rashad Greene,Wide Receiver,JAC,0.0
+432,David Moore,Wide Receiver,SEA,0.0
+433,Rashawn Scott,Wide Receiver,MIA,0.0
+434,Travis Kelce,Tight End,KC,10.3
+435,Evan Engram,Tight End,NYG,7.5
+436,Delanie Walker,Tight End,TEN,7.0
+437,Jimmy Graham,Tight End,SEA,6.9
+438,Zach Ertz,Tight End,PHI,6.7
+439,Jack Doyle,Tight End,IND,6.4
+440,Hunter Henry,Tight End,LAC,6.4
+441,Kyle Rudolph,Tight End,MIN,6.2
+442,Jared Cook,Tight End,OAK,6.2
+443,Cameron Brate,Tight End,TB,6.0
+444,Greg Olsen,Tight End,CAR,6.0
+445,Vernon Davis,Tight End,WAS,6.0
+446,Jason Witten,Tight End,DAL,5.5
+447,Austin Hooper,Tight End,ATL,5.3
+448,Austin Seferian-Jenkins,Tight End,NYJ,5.3
+449,Tyler Kroft,Tight End,CIN,5.2
+450,Ricky Seals-Jones,Tight End,ARI,5.2
+451,Stephen Anderson,Tight End,HOU,5.1
+452,Julius Thomas,Tight End,MIA,5.1
+453,Charles Clay,Tight End,BUF,5.1
+454,Eric Ebron,Tight End,DET,4.7
+455,David Njoku,Tight End,CLE,4.4
+456,O.J. Howard,Tight End,TB,4.1
+457,Benjamin Watson,Tight End,BAL,4.0
+458,Marcedes Lewis,Tight End,JAC,3.9
+459,Dwayne Allen,Tight End,NE,3.7
+460,George Kittle,Tight End,SF,3.5
+461,Garrett Celek,Tight End,SF,3.2
+462,Gerald Everett,Tight End,LAR,3.1
+463,Vance McDonald,Tight End,PIT,3.0
+464,Tyler Higbee,Tight End,LAR,3.0
+465,Virgil Green,Tight End,DEN,2.9
+466,Trey Burton,Tight End,PHI,2.9
+467,Seth DeValve,Tight End,CLE,2.8
+468,Antonio Gates,Tight End,LAC,2.7
+469,Josh Hill,Tight End,NO,2.7
+470,Jermaine Gresham,Tight End,ARI,2.7
+471,Jesse James,Tight End,PIT,2.7
+472,Darren Fells,Tight End,DET,2.6
+473,Ed Dickson,Tight End,CAR,2.6
+474,Adam Shaheen,Tight End,CHI,2.3
+475,Lance Kendricks,Tight End,GB,2.3
+476,Nick O'Leary,Tight End,BUF,2.1
+477,Richard Rodgers,Tight End,GB,2.0
+478,Austin Traylor,Tight End,DEN,2.0
+479,Demetrius Harris,Tight End,KC,1.9
+480,Jonnu Smith,Tight End,TEN,1.8
+481,Dion Sims,Tight End,CHI,1.8
+482,Niles Paul,Tight End,WAS,1.7
+483,Michael Hoomanawanui,Tight End,NO,1.7
+484,Jacob Hollister,Tight End,NE,1.7
+485,Jeff Heuerman,Tight End,DEN,1.6
+486,Rhett Ellison,Tight End,NYG,1.5
+487,Eric Tomlinson,Tight End,NYJ,1.5
+488,Daniel Brown,Tight End,CHI,1.4
+489,Levine Toilolo,Tight End,ATL,1.4
+490,Nick Boyle,Tight End,BAL,1.4
+491,MyCole Pruitt,Tight End,HOU,1.3
+492,Anthony Fasano,Tight End,MIA,1.3
+493,Jerell Adams,Tight End,NYG,1.2
+494,Nick Vannett,Tight End,SEA,1.2
+495,Brent Celek,Tight End,PHI,1.1
+496,Luke Willson,Tight End,SEA,1.0
+497,James O'Shaughnessy,Tight End,JAC,1.0
+498,Logan Thomas,Tight End,BUF,1.0
+499,A.J. Derby,Tight End,MIA,1.0
+500,Xavier Grimble,Tight End,PIT,0.9
+501,Geoff Swaim,Tight End,DAL,0.8
+502,Troy Niklas,Tight End,ARI,0.7
+503,Brandon Williams,Tight End,IND,0.7
+504,Eric Saubert,Tight End,ATL,0.7
+505,Jason Vander Laan,Tight End,IND,0.6
+506,Luke Stocker,Tight End,TEN,0.6
+507,Antony Auclair,Tight End,TB,0.6
+508,Clive Walford,Tight End,OAK,0.6
+509,David Morgan,Tight End,MIN,0.5
+510,Clark Harris,Tight End,CIN,0.5
+511,Maxx Williams,Tight End,BAL,0.5
+512,Sean McGrath,Tight End,LAC,0.5
+513,Ben Koyack,Tight End,JAC,0.4
+514,Lee Smith,Tight End,OAK,0.4
+515,Phillip Supernaw,Tight End,TEN,0.4
+516,Michael Roberts,Tight End,DET,0.4
+517,Derek Carrier,Tight End,LAR,0.4
+518,Blake Bell,Tight End,MIN,0.4
+519,James Hanna,Tight End,DAL,0.4
+520,C.J. Uzomah,Tight End,CIN,0.3
+521,Matt Lengel,Tight End,CLE,0.3
+522,Khari Lee,Tight End,BUF,0.3
+523,Jeremy Sprinkle,Tight End,WAS,0.3
+524,Randall Telfer,Tight End,CLE,0.3
+525,Darrell Daniels,Tight End,IND,0.3
+526,Ifeanyi Momah,Tight End,ARI,0.3
+527,Ben Braunecker,Tight End,CHI,0.3
+528,Ross Travis,Tight End,IND,0.3
+529,Neal Sterling,Tight End,NYJ,0.3
+530,Evan Baylis,Tight End,CAR,0.2
+531,Orson Charles,Tight End,KC,0.2
+532,Ryan Hewitt,Tight End,CIN,0.2
+533,Chris Manhertz,Tight End,CAR,0.2
+534,Alan Cross,Tight End,TB,0.2
+535,MarQueis Gray,Tight End,MIA,0.2
+536,Logan Paulsen,Tight End,SF,0.1
+537,Cethan Carter,Tight End,CIN,0.0
+538,Jordan Leggett,Tight End,NYJ,0.0
+539,Garrett Griffin,Tight End,NO,0.0
+540,Chris Gragg,Tight End,NYJ,0.0
+541,Will Tye,Tight End,NE,0.0
+542,Jeff Cumberland,Tight End,LAC,0.0
+543,Stephen Gostkowski,Kicker,NE,9.3
+544,Greg Zuerlein,Kicker,LAR,9.0
+545,Wil Lutz,Kicker,NO,8.6
+546,Matt Bryant,Kicker,ATL,8.5
+547,Harrison Butker,Kicker,KC,8.5
+548,Travis Coons,Kicker,LAC,8.2
+549,Chris Boswell,Kicker,PIT,8.1
+550,Steven Hauschka,Kicker,BUF,7.9
+551,Matt Prater,Kicker,DET,7.9
+552,Ryan Succop,Kicker,TEN,7.7
+553,Ka'imi Fairbairn,Kicker,HOU,7.6
+554,Dan Bailey,Kicker,DAL,7.4
+555,Graham Gano,Kicker,CAR,7.4
+556,Jake Elliott,Kicker,PHI,7.3
+557,Josh Lambo,Kicker,JAC,7.2
+558,Kai Forbath,Kicker,MIN,7.2
+559,Phil Dawson,Kicker,ARI,7.1
+560,Robbie Gould,Kicker,SF,7.1
+561,Chandler Catanzaro,Kicker,NYJ,7.0
+562,Justin Tucker,Kicker,BAL,7.0
+563,Brandon McManus,Kicker,DEN,7.0
+564,Adam Vinatieri,Kicker,IND,7.0
+565,Giorgio Tavecchio,Kicker,OAK,6.9
+566,Patrick Murray,Kicker,TB,6.9
+567,Mason Crosby,Kicker,GB,6.4
+568,Blair Walsh,Kicker,SEA,6.4
+569,Randy Bullock,Kicker,CIN,6.3
+570,Nick Rose,Kicker,WAS,6.1
+571,Aldrick Rosas,Kicker,NYG,5.8
+572,Zane Gonzalez,Kicker,CLE,5.8
+573,Mike Nugent,Kicker,CHI,5.5
+574,Cody Parkey,Kicker,MIA,5.4
+575,Cairo Santos,Kicker,CHI,0.0
+576,Roberto Aguayo,Kicker,CAR,0.0
+577,Nick Folk,Kicker,TB,0.0
+578,Green Bay Packers,Defense & Special Teams,GB,9.3
+579,Jacksonville Jaguars,Defense & Special Teams,JAC,9.0
+580,New England Patriots,Defense & Special Teams,NE,8.5
+581,Los Angeles Chargers,Defense & Special Teams,LAC,8.1
+582,Tennessee Titans,Defense & Special Teams,TEN,8.1
+583,Houston Texans,Defense & Special Teams,HOU,8.0
+584,Pittsburgh Steelers,Defense & Special Teams,PIT,8.0
+585,Dallas Cowboys,Defense & Special Teams,DAL,7.8
+586,Minnesota Vikings,Defense & Special Teams,MIN,7.7
+587,Cincinnati Bengals,Defense & Special Teams,CIN,7.5
+588,New York Jets,Defense & Special Teams,NYJ,7.4
+589,Buffalo Bills,Defense & Special Teams,BUF,7.1
+590,Denver Broncos,Defense & Special Teams,DEN,6.8
+591,Seattle Seahawks,Defense & Special Teams,SF,6.7
+592,Detroit Lions,Defense & Special Teams,DET,6.6
+593,Philadelphia Eagles,Defense & Special Teams,PHI,6.6
+594,Tampa Bay Buccaneers,Defense & Special Teams,TB,6.5
+595,Baltimore Ravens,Defense & Special Teams,BAL,6.5
+596,Cleveland Browns,Defense & Special Teams,CLE,6.5
+597,San Francisco 49ers,Defense & Special Teams,SEA,6.5
+598,Los Angeles Rams,Defense & Special Teams,LAR,6.4
+599,Arizona Cardinals,Defense & Special Teams,ARI,6.2
+600,Indianapolis Colts,Defense & Special Teams,IND,6.0
+601,Chicago Bears,Defense & Special Teams,CHI,5.9
+602,Carolina Panthers,Defense & Special Teams,CAR,5.7
+603,Washington Redskins,Defense & Special Teams,WAS,5.4
+604,Kansas City Chiefs,Defense & Special Teams,KC,5.4
+605,New Orleans Saints,Defense & Special Teams,NO,5.4
+606,New York Giants,Defense & Special Teams,NYG,5.3
+607,Atlanta Falcons,Defense & Special Teams,ATL,5.0
+608,Miami Dolphins,Defense & Special Teams,MIA,4.7
+609,Oakland Raiders,Defense & Special Teams,OAK,4.6

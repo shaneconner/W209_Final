@@ -1,0 +1,33 @@
+,Player,SACK,INT,FR,FF,TD,ASSIST,SAFETY,PA,YDS AGN,FPTS,Position
+0,Green Bay Packers,3.1,1.3,0.8,1.3,0.2,0.0,0.0,17.9,302.2,9.3,Defense Team
+1,Jacksonville Jaguars,3.3,1.1,0.7,1.0,0.2,0.0,0.1,18.7,312.5,9.0,Defense Team
+2,New England Patriots,2.3,1.2,0.7,1.1,0.2,0.0,0.1,15.9,313.4,8.5,Defense Team
+3,Los Angeles Chargers,2.5,1.0,0.8,1.4,0.2,0.0,0.0,19.5,353.0,8.1,Defense Team
+4,Tennessee Titans,2.7,1.3,0.7,1.3,0.2,0.0,0.0,20.6,319.0,8.1,Defense Team
+5,Houston Texans,2.6,0.9,0.7,1.3,0.2,0.0,0.0,19.5,318.5,8.0,Defense Team
+6,Pittsburgh Steelers,2.5,1.0,0.6,1.0,0.2,0.0,0.0,19.9,307.9,8.0,Defense Team
+7,Dallas Cowboys,2.3,1.0,0.7,1.2,0.2,0.0,0.0,18.6,318.9,7.8,Defense Team
+8,Minnesota Vikings,2.4,0.9,0.7,1.0,0.2,0.0,0.0,20.0,312.6,7.7,Defense Team
+9,Cincinnati Bengals,2.6,0.8,0.7,1.3,0.1,0.0,0.1,15.9,292.5,7.5,Defense Team
+10,New York Jets,2.5,1.1,0.7,1.0,0.2,0.0,0.0,20.5,313.5,7.4,Defense Team
+11,Buffalo Bills,2.7,0.9,0.6,1.2,0.2,0.0,0.0,20.5,325.0,7.1,Defense Team
+12,Denver Broncos,2.5,0.9,0.7,1.1,0.2,0.0,0.0,20.2,301.0,6.8,Defense Team
+13,Seattle Seahawks,2.3,1.0,0.7,1.2,0.2,0.0,0.0,20.8,328.7,6.7,Defense Team
+14,Detroit Lions,2.0,1.0,0.7,1.3,0.2,0.0,0.0,22.9,364.4,6.6,Defense Team
+15,Philadelphia Eagles,2.1,0.9,0.8,1.4,0.2,0.0,0.0,24.6,341.6,6.6,Defense Team
+16,Tampa Bay Buccaneers,2.2,0.8,0.8,1.3,0.2,0.0,0.0,23.0,365.0,6.5,Defense Team
+17,Baltimore Ravens,1.9,1.1,0.6,0.8,0.2,0.0,0.0,23.9,358.7,6.5,Defense Team
+18,Cleveland Browns,2.4,1.0,0.5,0.8,0.2,0.0,0.0,22.5,335.3,6.5,Defense Team
+19,San Francisco 49ers,2.3,0.9,0.7,1.3,0.2,0.0,0.0,23.4,355.9,6.5,Defense Team
+20,Los Angeles Rams,2.7,0.8,0.6,1.2,0.2,0.0,0.0,23.7,369.4,6.4,Defense Team
+21,Arizona Cardinals,2.1,1.0,0.6,0.8,0.2,0.0,0.0,22.6,327.9,6.2,Defense Team
+22,Indianapolis Colts,2.1,0.9,0.6,1.0,0.1,0.0,0.0,23.8,337.7,6.0,Defense Team
+23,Chicago Bears,2.2,0.7,0.6,1.0,0.2,0.0,0.0,20.2,305.6,5.9,Defense Team
+24,Carolina Panthers,2.2,0.7,0.6,0.9,0.2,0.0,0.0,23.1,349.7,5.7,Defense Team
+25,Washington Redskins,1.7,0.9,0.5,0.8,0.2,0.0,0.0,26.6,378.4,5.4,Defense Team
+26,Kansas City Chiefs,1.6,0.8,0.6,1.1,0.2,0.0,0.0,23.4,383.3,5.4,Defense Team
+27,New Orleans Saints,1.9,0.8,0.5,0.7,0.2,0.0,0.0,26.0,386.9,5.4,Defense Team
+28,New York Giants,1.8,0.7,0.6,0.9,0.2,0.0,0.0,22.8,358.6,5.3,Defense Team
+29,Atlanta Falcons,1.6,0.7,0.6,0.9,0.1,0.0,0.0,26.8,403.6,5.0,Defense Team
+30,Miami Dolphins,1.8,0.5,0.6,0.9,0.1,0.0,0.0,29.7,418.0,4.7,Defense Team
+31,Oakland Raiders,1.9,0.5,0.5,0.8,0.1,0.0,0.0,27.3,387.6,4.6,Defense Team
