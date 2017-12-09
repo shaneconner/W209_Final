@@ -122,4 +122,16 @@ ecr.to_csv('ecr.csv')
 
 # Merge projectons and ECR
 df = projections.merge(ecr, on=['Player', 'Position', 'Team'], how='left')
+
+# Create points rank column
+df['Points Rank'] = df.groupby('Position')['FPTS'].rank(ascending=False).astype(int)
+
+# Rename columns to avoid confusion
+df = df.rename(index=str, columns={"Avg":"Expert Consensus Rank", \
+                                   'FPTS':'Projected Points', \
+                                   'Best':'Highest Expert Rank', \
+                                   'Worst':'Lowest Expert Rank',
+                                   'Std Dev':'Expert Rank Standard Deviation'})
+
+# Write to CSV
 df.to_csv('data.csv')
