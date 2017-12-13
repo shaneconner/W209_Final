@@ -1,0 +1,1 @@
+#### Scripts used for scraping Fantasy Football weekly data. Initially used R although we later switched to the Python script due to dependency issues.
